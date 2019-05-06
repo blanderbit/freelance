@@ -1,0 +1,95 @@
+[28-Dec-2018 12:24:42 Europe/Amsterdam] PHP Fatal error:  Uncaught Exception: E-mail address is already taken in /home/causeffect/public_html/app/model/user.php:105
+Stack trace:
+#0 /home/causeffect/public_html/app/script/ajax/user-update.php(27): User->add(Array)
+#1 {main}
+  thrown in /home/causeffect/public_html/app/model/user.php on line 105
+[28-Dec-2018 12:24:45 Europe/Amsterdam] PHP Fatal error:  Uncaught Exception: E-mail address is already taken in /home/causeffect/public_html/app/model/user.php:105
+Stack trace:
+#0 /home/causeffect/public_html/app/script/ajax/user-update.php(27): User->add(Array)
+#1 {main}
+  thrown in /home/causeffect/public_html/app/model/user.php on line 105
+[28-Dec-2018 12:24:47 Europe/Amsterdam] PHP Fatal error:  Uncaught Exception: E-mail address is already taken in /home/causeffect/public_html/app/model/user.php:105
+Stack trace:
+#0 /home/causeffect/public_html/app/script/ajax/user-update.php(27): User->add(Array)
+#1 {main}
+  thrown in /home/causeffect/public_html/app/model/user.php on line 105
+[28-Dec-2018 12:24:50 Europe/Amsterdam] PHP Fatal error:  Uncaught Exception: E-mail address is already taken in /home/causeffect/public_html/app/model/user.php:105
+Stack trace:
+#0 /home/causeffect/public_html/app/script/ajax/user-update.php(27): User->add(Array)
+#1 {main}
+  thrown in /home/causeffect/public_html/app/model/user.php on line 105
+[28-Dec-2018 12:24:50 Europe/Amsterdam] PHP Fatal error:  Uncaught Exception: E-mail address is already taken in /home/causeffect/public_html/app/model/user.php:105
+Stack trace:
+#0 /home/causeffect/public_html/app/script/ajax/user-update.php(27): User->add(Array)
+#1 {main}
+  thrown in /home/causeffect/public_html/app/model/user.php on line 105
+[28-Dec-2018 12:24:50 Europe/Amsterdam] PHP Fatal error:  Uncaught Exception: E-mail address is already taken in /home/causeffect/public_html/app/model/user.php:105
+Stack trace:
+#0 /home/causeffect/public_html/app/script/ajax/user-update.php(27): User->add(Array)
+#1 {main}
+  thrown in /home/causeffect/public_html/app/model/user.php on line 105
+[28-Dec-2018 12:24:50 Europe/Amsterdam] PHP Fatal error:  Uncaught Exception: E-mail address is already taken in /home/causeffect/public_html/app/model/user.php:105
+Stack trace:
+#0 /home/causeffect/public_html/app/script/ajax/user-update.php(27): User->add(Array)
+#1 {main}
+  thrown in /home/causeffect/public_html/app/model/user.php on line 105
+[28-Dec-2018 12:25:11 Europe/Amsterdam] PHP Fatal error:  Uncaught Exception: E-mail address is already taken in /home/causeffect/public_html/app/model/user.php:105
+Stack trace:
+#0 /home/causeffect/public_html/app/script/ajax/user-update.php(27): User->add(Array)
+#1 {main}
+  thrown in /home/causeffect/public_html/app/model/user.php on line 105
+[28-Dec-2018 12:25:12 Europe/Amsterdam] PHP Fatal error:  Uncaught Exception: E-mail address is already taken in /home/causeffect/public_html/app/model/user.php:105
+Stack trace:
+#0 /home/causeffect/public_html/app/script/ajax/user-update.php(27): User->add(Array)
+#1 {main}
+  thrown in /home/causeffect/public_html/app/model/user.php on line 105
+[28-Dec-2018 12:25:14 Europe/Amsterdam] PHP Fatal error:  Uncaught Exception: E-mail address is already taken in /home/causeffect/public_html/app/model/user.php:105
+Stack trace:
+#0 /home/causeffect/public_html/app/script/ajax/user-update.php(27): User->add(Array)
+#1 {main}
+  thrown in /home/causeffect/public_html/app/model/user.php on line 105
+[28-Dec-2018 12:25:15 Europe/Amsterdam] PHP Fatal error:  Uncaught Exception: E-mail address is already taken in /home/causeffect/public_html/app/model/user.php:105
+Stack trace:
+#0 /home/causeffect/public_html/app/script/ajax/user-update.php(27): User->add(Array)
+#1 {main}
+  thrown in /home/causeffect/public_html/app/model/user.php on line 105
+[28-Dec-2018 12:25:19 Europe/Amsterdam] PHP Fatal error:  Uncaught Exception: E-mail address is already taken in /home/causeffect/public_html/app/model/user.php:105
+Stack trace:
+#0 /home/causeffect/public_html/app/script/ajax/user-update.php(27): User->add(Array)
+#1 {main}
+  thrown in /home/causeffect/public_html/app/model/user.php on line 105
+[28-Dec-2018 12:25:19 Europe/Amsterdam] PHP Fatal error:  Uncaught Exception: E-mail address is already taken in /home/causeffect/public_html/app/model/user.php:105
+Stack trace:
+#0 /home/causeffect/public_html/app/script/ajax/user-update.php(27): User->add(Array)
+#1 {main}
+  thrown in /home/causeffect/public_html/app/model/user.php on line 105
+[28-Dec-2018 12:25:19 Europe/Amsterdam] PHP Fatal error:  Uncaught Exception: E-mail address is already taken in /home/causeffect/public_html/app/model/user.php:105
+Stack trace:
+#0 /home/causeffect/public_html/app/script/ajax/user-update.php(27): User->add(Array)
+#1 {main}
+  thrown in /home/causeffect/public_html/app/model/user.php on line 105
+[28-Dec-2018 12:25:20 Europe/Amsterdam] PHP Fatal error:  Uncaught Exception: E-mail address is already taken in /home/causeffect/public_html/app/model/user.php:105
+Stack trace:
+#0 /home/causeffect/public_html/app/script/ajax/user-update.php(27): User->add(Array)
+#1 {main}
+  thrown in /home/causeffect/public_html/app/model/user.php on line 105
+[28-Dec-2018 12:25:20 Europe/Amsterdam] PHP Fatal error:  Uncaught Exception: E-mail address is already taken in /home/causeffect/public_html/app/model/user.php:105
+Stack trace:
+#0 /home/causeffect/public_html/app/script/ajax/user-update.php(27): User->add(Array)
+#1 {main}
+  thrown in /home/causeffect/public_html/app/model/user.php on line 105
+[28-Dec-2018 12:25:20 Europe/Amsterdam] PHP Fatal error:  Uncaught Exception: E-mail address is already taken in /home/causeffect/public_html/app/model/user.php:105
+Stack trace:
+#0 /home/causeffect/public_html/app/script/ajax/user-update.php(27): User->add(Array)
+#1 {main}
+  thrown in /home/causeffect/public_html/app/model/user.php on line 105
+[28-Dec-2018 12:25:21 Europe/Amsterdam] PHP Fatal error:  Uncaught Exception: E-mail address is already taken in /home/causeffect/public_html/app/model/user.php:105
+Stack trace:
+#0 /home/causeffect/public_html/app/script/ajax/user-update.php(27): User->add(Array)
+#1 {main}
+  thrown in /home/causeffect/public_html/app/model/user.php on line 105
+[28-Dec-2018 12:26:03 Europe/Amsterdam] PHP Fatal error:  Uncaught Exception: E-mail address is already taken in /home/causeffect/public_html/app/model/user.php:105
+Stack trace:
+#0 /home/causeffect/public_html/app/script/ajax/user-update.php(27): User->add(Array)
+#1 {main}
+  thrown in /home/causeffect/public_html/app/model/user.php on line 105

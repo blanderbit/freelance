@@ -1,0 +1,10 @@
+@media screen and (max-width: 1024px) {
+
+  .profile-left,
+  .profile-right {
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+  }
+
+}

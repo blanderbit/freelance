@@ -1,0 +1,159 @@
+[02-Nov-2018 18:04:25 Europe/Amsterdam] PHP Warning:  include(/home/causeffect/public_html/app/model/config.php): failed to open stream: No such file or directory in /home/causeffect/public_html/app/app.php on line 17
+[02-Nov-2018 18:04:25 Europe/Amsterdam] PHP Warning:  include(): Failed opening '/home/causeffect/public_html/app/model/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/causeffect/public_html/app/app.php on line 17
+[02-Nov-2018 18:04:25 Europe/Amsterdam] PHP Warning:  include(/home/causeffect/public_html/app/model/functions.php): failed to open stream: No such file or directory in /home/causeffect/public_html/app/app.php on line 18
+[02-Nov-2018 18:04:25 Europe/Amsterdam] PHP Warning:  include(): Failed opening '/home/causeffect/public_html/app/model/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/causeffect/public_html/app/app.php on line 18
+[02-Nov-2018 18:04:25 Europe/Amsterdam] PHP Warning:  include(/home/causeffect/public_html/app/model/user.php): failed to open stream: No such file or directory in /home/causeffect/public_html/app/app.php on line 19
+[02-Nov-2018 18:04:25 Europe/Amsterdam] PHP Warning:  include(): Failed opening '/home/causeffect/public_html/app/model/user.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/causeffect/public_html/app/app.php on line 19
+[02-Nov-2018 18:04:25 Europe/Amsterdam] PHP Fatal error:  Call to undefined function is_path() in /home/causeffect/public_html/app/index.php on line 7
+[02-Nov-2018 18:07:36 Europe/Amsterdam] PHP Warning:  include(/home/causeffect/public_html/app/model/config.php): failed to open stream: No such file or directory in /home/causeffect/public_html/app/app.php on line 17
+[02-Nov-2018 18:07:36 Europe/Amsterdam] PHP Warning:  include(): Failed opening '/home/causeffect/public_html/app/model/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/causeffect/public_html/app/app.php on line 17
+[02-Nov-2018 18:07:36 Europe/Amsterdam] PHP Warning:  include(/home/causeffect/public_html/app/model/functions.php): failed to open stream: No such file or directory in /home/causeffect/public_html/app/app.php on line 18
+[02-Nov-2018 18:07:36 Europe/Amsterdam] PHP Warning:  include(): Failed opening '/home/causeffect/public_html/app/model/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/causeffect/public_html/app/app.php on line 18
+[02-Nov-2018 18:07:36 Europe/Amsterdam] PHP Warning:  include(/home/causeffect/public_html/app/model/user.php): failed to open stream: No such file or directory in /home/causeffect/public_html/app/app.php on line 19
+[02-Nov-2018 18:07:36 Europe/Amsterdam] PHP Warning:  include(): Failed opening '/home/causeffect/public_html/app/model/user.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/causeffect/public_html/app/app.php on line 19
+[02-Nov-2018 18:07:36 Europe/Amsterdam] PHP Fatal error:  Call to undefined function is_path() in /home/causeffect/public_html/app/index.php on line 7
+[02-Nov-2018 18:07:43 Europe/Amsterdam] PHP Warning:  include(/home/causeffect/public_html/app/model/config.php): failed to open stream: No such file or directory in /home/causeffect/public_html/app/app.php on line 17
+[02-Nov-2018 18:07:43 Europe/Amsterdam] PHP Warning:  include(): Failed opening '/home/causeffect/public_html/app/model/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/causeffect/public_html/app/app.php on line 17
+[02-Nov-2018 18:07:43 Europe/Amsterdam] PHP Warning:  include(/home/causeffect/public_html/app/model/functions.php): failed to open stream: No such file or directory in /home/causeffect/public_html/app/app.php on line 18
+[02-Nov-2018 18:07:43 Europe/Amsterdam] PHP Warning:  include(): Failed opening '/home/causeffect/public_html/app/model/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/causeffect/public_html/app/app.php on line 18
+[02-Nov-2018 18:07:43 Europe/Amsterdam] PHP Warning:  include(/home/causeffect/public_html/app/model/user.php): failed to open stream: No such file or directory in /home/causeffect/public_html/app/app.php on line 19
+[02-Nov-2018 18:07:43 Europe/Amsterdam] PHP Warning:  include(): Failed opening '/home/causeffect/public_html/app/model/user.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/causeffect/public_html/app/app.php on line 19
+[02-Nov-2018 18:07:43 Europe/Amsterdam] PHP Fatal error:  Call to undefined function is_path() in /home/causeffect/public_html/app/index.php on line 7
+[02-Nov-2018 18:08:38 Europe/Amsterdam] PHP Warning:  include(/home/causeffect/public_html/app/model/config.php): failed to open stream: No such file or directory in /home/causeffect/public_html/app/app.php on line 17
+[02-Nov-2018 18:08:38 Europe/Amsterdam] PHP Warning:  include(): Failed opening '/home/causeffect/public_html/app/model/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/causeffect/public_html/app/app.php on line 17
+[02-Nov-2018 18:08:38 Europe/Amsterdam] PHP Warning:  include(/home/causeffect/public_html/app/model/functions.php): failed to open stream: No such file or directory in /home/causeffect/public_html/app/app.php on line 18
+[02-Nov-2018 18:08:38 Europe/Amsterdam] PHP Warning:  include(): Failed opening '/home/causeffect/public_html/app/model/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/causeffect/public_html/app/app.php on line 18
+[02-Nov-2018 18:08:38 Europe/Amsterdam] PHP Warning:  include(/home/causeffect/public_html/app/model/user.php): failed to open stream: No such file or directory in /home/causeffect/public_html/app/app.php on line 19
+[02-Nov-2018 18:08:38 Europe/Amsterdam] PHP Warning:  include(): Failed opening '/home/causeffect/public_html/app/model/user.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/causeffect/public_html/app/app.php on line 19
+[02-Nov-2018 18:08:38 Europe/Amsterdam] PHP Fatal error:  Call to undefined function is_path() in /home/causeffect/public_html/app/index.php on line 7
+[02-Nov-2018 18:08:49 Europe/Amsterdam] PHP Warning:  include(/home/causeffect/public_html/app/model/config.php): failed to open stream: No such file or directory in /home/causeffect/public_html/app/app.php on line 17
+[02-Nov-2018 18:08:49 Europe/Amsterdam] PHP Warning:  include(): Failed opening '/home/causeffect/public_html/app/model/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/causeffect/public_html/app/app.php on line 17
+[02-Nov-2018 18:08:49 Europe/Amsterdam] PHP Warning:  include(/home/causeffect/public_html/app/model/functions.php): failed to open stream: No such file or directory in /home/causeffect/public_html/app/app.php on line 18
+[02-Nov-2018 18:08:49 Europe/Amsterdam] PHP Warning:  include(): Failed opening '/home/causeffect/public_html/app/model/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/causeffect/public_html/app/app.php on line 18
+[02-Nov-2018 18:08:49 Europe/Amsterdam] PHP Warning:  include(/home/causeffect/public_html/app/model/user.php): failed to open stream: No such file or directory in /home/causeffect/public_html/app/app.php on line 19
+[02-Nov-2018 18:08:49 Europe/Amsterdam] PHP Warning:  include(): Failed opening '/home/causeffect/public_html/app/model/user.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/causeffect/public_html/app/app.php on line 19
+[02-Nov-2018 18:08:49 Europe/Amsterdam] PHP Fatal error:  Uncaught Error: Call to undefined function is_path() in /home/causeffect/public_html/app/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/causeffect/public_html/app/index.php on line 7
+[02-Nov-2018 18:09:30 Europe/Amsterdam] PHP Warning:  include(/home/causeffect/public_html/app/model/config.php): failed to open stream: No such file or directory in /home/causeffect/public_html/app/app.php on line 17
+[02-Nov-2018 18:09:30 Europe/Amsterdam] PHP Warning:  include(): Failed opening '/home/causeffect/public_html/app/model/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/causeffect/public_html/app/app.php on line 17
+[02-Nov-2018 18:09:30 Europe/Amsterdam] PHP Warning:  include(/home/causeffect/public_html/app/model/functions.php): failed to open stream: No such file or directory in /home/causeffect/public_html/app/app.php on line 18
+[02-Nov-2018 18:09:30 Europe/Amsterdam] PHP Warning:  include(): Failed opening '/home/causeffect/public_html/app/model/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/causeffect/public_html/app/app.php on line 18
+[02-Nov-2018 18:09:30 Europe/Amsterdam] PHP Warning:  include(/home/causeffect/public_html/app/model/user.php): failed to open stream: No such file or directory in /home/causeffect/public_html/app/app.php on line 19
+[02-Nov-2018 18:09:30 Europe/Amsterdam] PHP Warning:  include(): Failed opening '/home/causeffect/public_html/app/model/user.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/causeffect/public_html/app/app.php on line 19
+[02-Nov-2018 18:09:30 Europe/Amsterdam] PHP Fatal error:  Uncaught Error: Call to undefined function is_path() in /home/causeffect/public_html/app/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/causeffect/public_html/app/index.php on line 7
+[02-Nov-2018 18:09:31 Europe/Amsterdam] PHP Warning:  include(/home/causeffect/public_html/app/model/config.php): failed to open stream: No such file or directory in /home/causeffect/public_html/app/app.php on line 17
+[02-Nov-2018 18:09:31 Europe/Amsterdam] PHP Warning:  include(): Failed opening '/home/causeffect/public_html/app/model/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/causeffect/public_html/app/app.php on line 17
+[02-Nov-2018 18:09:31 Europe/Amsterdam] PHP Warning:  include(/home/causeffect/public_html/app/model/functions.php): failed to open stream: No such file or directory in /home/causeffect/public_html/app/app.php on line 18
+[02-Nov-2018 18:09:31 Europe/Amsterdam] PHP Warning:  include(): Failed opening '/home/causeffect/public_html/app/model/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/causeffect/public_html/app/app.php on line 18
+[02-Nov-2018 18:09:31 Europe/Amsterdam] PHP Warning:  include(/home/causeffect/public_html/app/model/user.php): failed to open stream: No such file or directory in /home/causeffect/public_html/app/app.php on line 19
+[02-Nov-2018 18:09:31 Europe/Amsterdam] PHP Warning:  include(): Failed opening '/home/causeffect/public_html/app/model/user.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/causeffect/public_html/app/app.php on line 19
+[02-Nov-2018 18:09:31 Europe/Amsterdam] PHP Fatal error:  Uncaught Error: Call to undefined function is_path() in /home/causeffect/public_html/app/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/causeffect/public_html/app/index.php on line 7
+[02-Nov-2018 18:09:32 Europe/Amsterdam] PHP Warning:  include(/home/causeffect/public_html/app/model/config.php): failed to open stream: No such file or directory in /home/causeffect/public_html/app/app.php on line 17
+[02-Nov-2018 18:09:32 Europe/Amsterdam] PHP Warning:  include(): Failed opening '/home/causeffect/public_html/app/model/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/causeffect/public_html/app/app.php on line 17
+[02-Nov-2018 18:09:32 Europe/Amsterdam] PHP Warning:  include(/home/causeffect/public_html/app/model/functions.php): failed to open stream: No such file or directory in /home/causeffect/public_html/app/app.php on line 18
+[02-Nov-2018 18:09:32 Europe/Amsterdam] PHP Warning:  include(): Failed opening '/home/causeffect/public_html/app/model/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/causeffect/public_html/app/app.php on line 18
+[02-Nov-2018 18:09:32 Europe/Amsterdam] PHP Warning:  include(/home/causeffect/public_html/app/model/user.php): failed to open stream: No such file or directory in /home/causeffect/public_html/app/app.php on line 19
+[02-Nov-2018 18:09:32 Europe/Amsterdam] PHP Warning:  include(): Failed opening '/home/causeffect/public_html/app/model/user.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/causeffect/public_html/app/app.php on line 19
+[02-Nov-2018 18:09:32 Europe/Amsterdam] PHP Fatal error:  Uncaught Error: Call to undefined function is_path() in /home/causeffect/public_html/app/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/causeffect/public_html/app/index.php on line 7
+[02-Nov-2018 18:09:55 Europe/Amsterdam] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'admin_causeffect'@'localhost' (using password: YES) in /home/causeffect/public_html/app/model/config.php on line 8
+[02-Nov-2018 18:09:55 Europe/Amsterdam] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/causeffect/public_html/app/model/config.php on line 16
+[02-Nov-2018 18:09:55 Europe/Amsterdam] PHP Warning:  main(): Couldn't fetch mysqli in /home/causeffect/public_html/app/model/config.php on line 18
+[07-Nov-2018 15:45:26 Europe/Amsterdam] PHP Warning:  scandir(/home/causeffect/public_html/app/file/dev228/): failed to open dir: No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[07-Nov-2018 15:45:26 Europe/Amsterdam] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[07-Nov-2018 15:45:26 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/model/user.php on line 448
+[07-Nov-2018 15:47:23 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/view/snippet/header.php on line 10
+[07-Nov-2018 15:47:23 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/view/snippet/header.php on line 21
+[07-Nov-2018 15:47:31 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/view/snippet/header.php on line 10
+[07-Nov-2018 15:47:31 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/view/snippet/header.php on line 21
+[07-Nov-2018 15:48:01 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/view/snippet/header.php on line 10
+[07-Nov-2018 15:48:01 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/view/snippet/header.php on line 21
+[07-Nov-2018 15:56:57 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/view/snippet/header.php on line 10
+[07-Nov-2018 15:56:57 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/view/snippet/header.php on line 21
+[07-Nov-2018 15:57:20 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/view/snippet/header.php on line 10
+[07-Nov-2018 15:57:20 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/view/snippet/header.php on line 21
+[07-Nov-2018 15:58:19 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/view/snippet/header.php on line 10
+[07-Nov-2018 15:58:19 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/view/snippet/header.php on line 21
+[07-Nov-2018 16:34:36 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/view/snippet/header.php on line 10
+[07-Nov-2018 16:34:36 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/view/snippet/header.php on line 21
+[07-Nov-2018 16:34:54 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/view/snippet/header.php on line 10
+[07-Nov-2018 16:34:54 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/view/snippet/header.php on line 21
+[07-Nov-2018 16:35:04 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/view/snippet/header.php on line 10
+[07-Nov-2018 16:35:04 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/view/snippet/header.php on line 21
+[08-Nov-2018 09:55:55 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/view/snippet/header.php on line 10
+[08-Nov-2018 09:55:55 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/view/snippet/header.php on line 21
+[12-Nov-2018 13:31:31 Europe/Amsterdam] PHP Warning:  scandir(/home/causeffect/public_html/app/file/605106d44f19cd69d360eb0de36ea39a/): failed to open dir: No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[12-Nov-2018 13:31:31 Europe/Amsterdam] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[12-Nov-2018 13:31:31 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/model/user.php on line 448
+[12-Nov-2018 13:31:52 Europe/Amsterdam] PHP Warning:  scandir(/home/causeffect/public_html/app/file/0/): failed to open dir: No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[12-Nov-2018 13:31:52 Europe/Amsterdam] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[12-Nov-2018 13:31:52 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/model/user.php on line 448
+[12-Nov-2018 13:31:52 Europe/Amsterdam] PHP Warning:  scandir(/home/causeffect/public_html/app/file/605106d44f19cd69d360eb0de36ea39a/): failed to open dir: No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[12-Nov-2018 13:31:52 Europe/Amsterdam] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[12-Nov-2018 13:31:52 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/model/user.php on line 448
+[12-Nov-2018 14:31:00 Europe/Amsterdam] PHP Warning:  scandir(/home/causeffect/public_html/app/file/0e0ea837f612720455775fd77e53d559/): failed to open dir: No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[12-Nov-2018 14:31:00 Europe/Amsterdam] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[12-Nov-2018 14:31:00 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/model/user.php on line 448
+[12-Nov-2018 14:51:47 Europe/Amsterdam] PHP Warning:  scandir(/home/causeffect/public_html/app/file/a/): failed to open dir: No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[12-Nov-2018 14:51:47 Europe/Amsterdam] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[12-Nov-2018 14:51:47 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/model/user.php on line 448
+[12-Nov-2018 15:18:10 Europe/Amsterdam] PHP Warning:  scandir(/home/causeffect/public_html/app/file/b43154b9c068ca01bbf8d2b96e533f34/): failed to open dir: No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[12-Nov-2018 15:18:10 Europe/Amsterdam] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[12-Nov-2018 15:18:10 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/model/user.php on line 448
+[12-Nov-2018 15:19:54 Europe/Amsterdam] PHP Warning:  scandir(/home/causeffect/public_html/app/file/55320ef7da32ce9874649211dd751782/): failed to open dir: No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[12-Nov-2018 15:19:54 Europe/Amsterdam] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[12-Nov-2018 15:19:54 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/model/user.php on line 448
+[12-Nov-2018 15:20:55 Europe/Amsterdam] PHP Warning:  scandir(/home/causeffect/public_html/app/file/92ebb87052b1c40a5b68e384f2df02d5/): failed to open dir: No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[12-Nov-2018 15:20:55 Europe/Amsterdam] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[12-Nov-2018 15:20:55 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/model/user.php on line 448
+[12-Nov-2018 15:25:41 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/view/snippet/header.php on line 10
+[12-Nov-2018 15:25:41 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/view/snippet/header.php on line 21
+[12-Nov-2018 15:25:51 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/view/snippet/header.php on line 10
+[12-Nov-2018 15:25:51 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/view/snippet/header.php on line 21
+[12-Nov-2018 15:25:55 Europe/Amsterdam] PHP Warning:  scandir(/home/causeffect/public_html/app/file/cd0fcec57580eecddbe4fce7aef6a23b/): failed to open dir: No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[12-Nov-2018 15:25:55 Europe/Amsterdam] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[12-Nov-2018 15:25:55 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/model/user.php on line 448
+[14-Nov-2018 12:00:52 Europe/Amsterdam] PHP Warning:  scandir(/home/causeffect/public_html/app/file/d/): failed to open dir: No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[14-Nov-2018 12:00:52 Europe/Amsterdam] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[14-Nov-2018 12:00:52 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/model/user.php on line 448
+[14-Nov-2018 12:03:01 Europe/Amsterdam] PHP Warning:  scandir(/home/causeffect/public_html/app/file/d/): failed to open dir: No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[14-Nov-2018 12:03:01 Europe/Amsterdam] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[14-Nov-2018 12:03:01 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/model/user.php on line 448
+[14-Nov-2018 16:34:26 Europe/Amsterdam] PHP Warning:  scandir(/home/causeffect/public_html/app/file/d/): failed to open dir: No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[14-Nov-2018 16:34:26 Europe/Amsterdam] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[14-Nov-2018 16:34:26 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/model/user.php on line 448
+[14-Nov-2018 16:34:39 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/view/snippet/header.php on line 10
+[14-Nov-2018 16:34:39 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/view/snippet/header.php on line 21
+[14-Nov-2018 16:35:09 Europe/Amsterdam] PHP Warning:  scandir(/home/causeffect/public_html/app/file/b/): failed to open dir: No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[14-Nov-2018 16:35:09 Europe/Amsterdam] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[14-Nov-2018 16:35:09 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/model/user.php on line 448
+[14-Nov-2018 16:43:52 Europe/Amsterdam] PHP Warning:  scandir(/home/causeffect/public_html/app/file/d/): failed to open dir: No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[14-Nov-2018 16:43:52 Europe/Amsterdam] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[14-Nov-2018 16:43:52 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/model/user.php on line 448
+[14-Nov-2018 17:52:34 Europe/Amsterdam] PHP Warning:  scandir(/home/causeffect/public_html/app/file/cd0fcec57580eecddbe4fce7aef6a23b/): failed to open dir: No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[14-Nov-2018 17:52:34 Europe/Amsterdam] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[14-Nov-2018 17:52:34 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/model/user.php on line 448
+[14-Nov-2018 18:25:04 Europe/Amsterdam] PHP Warning:  scandir(/home/causeffect/public_html/app/file/cd0fcec57580eecddbe4fce7aef6a23b/): failed to open dir: No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[14-Nov-2018 18:25:04 Europe/Amsterdam] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[14-Nov-2018 18:25:04 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/model/user.php on line 448
+[14-Nov-2018 18:32:59 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/view/snippet/header.php on line 10
+[14-Nov-2018 18:32:59 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/view/snippet/header.php on line 21
+[14-Nov-2018 18:33:06 Europe/Amsterdam] PHP Warning:  scandir(/home/causeffect/public_html/app/file/0bd2377c7d1ec04f213d6fa16537f5f9/): failed to open dir: No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[14-Nov-2018 18:33:06 Europe/Amsterdam] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[14-Nov-2018 18:33:06 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/model/user.php on line 448
+[15-Nov-2018 08:07:06 Europe/Amsterdam] PHP Warning:  scandir(/home/causeffect/public_html/app/file/cd0fcec57580eecddbe4fce7aef6a23b/): failed to open dir: No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[15-Nov-2018 08:07:06 Europe/Amsterdam] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[15-Nov-2018 08:07:06 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/model/user.php on line 448
+[15-Nov-2018 09:54:12 Europe/Amsterdam] PHP Warning:  scandir(/home/causeffect/public_html/app/file/034248469f3bdc9e479b638572d2ad26/): failed to open dir: No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[15-Nov-2018 09:54:12 Europe/Amsterdam] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/causeffect/public_html/app/model/user.php on line 446
+[15-Nov-2018 09:54:12 Europe/Amsterdam] PHP Warning:  Invalid argument supplied for foreach() in /home/causeffect/public_html/app/model/user.php on line 448
